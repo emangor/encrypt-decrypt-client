@@ -1,0 +1,20 @@
+{
+  "name": "crypto-rabbitmq-cli",
+  "description": "CLI - encrypt / decrypt client",
+  "version": "0.0.1",
+  "author": "Erik Mangor",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
